@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-family: 'Rubik Iso', cursive;
+    color:darkgoldenrod;
+    text-align: center;
+}
+.testo-informativo{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    padding: 1em;
+}
+.centra{
+    text-align: center;
+}
+#password-utente{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    border: 2px solid darkcyan;
+    display: inline-block;
+    padding: 1em;
+}

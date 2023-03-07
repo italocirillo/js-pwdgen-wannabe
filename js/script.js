@@ -9,7 +9,7 @@ console.log("JAVASCRIPT COLLEGATO");
 const nome= prompt("Ciao,sono un generatore di password insicuro ma funzionale, puoi dirmi il tuo nome?");
 console.log(nome);
 // Cognome
-const cognome= prompt("Bene "+nome+" adesso potremmi dirmi il tuo cognome?");
+const cognome= prompt("Bene "+nome+" adesso potresti dirmi il tuo cognome?");
 console.log(cognome);
 // Colore
 let colore= prompt("Ok "+nome+" ultimo passaggio,puoi dirmi qual è il tuo colore preferito?");
